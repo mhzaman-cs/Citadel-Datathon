@@ -1,3 +1,6 @@
+<!-- [![Intro Gif](ReadmeGif.gif)](https://muhammadzaman.tech/) -->
+[<img src="Dataopen.gif" width="100%"/>](https://muhammadzaman.tech/Certificates/Datathon%20Certificate%20of%20Achievement.pdf)
+
 # Citadel Datathon
 
 The East-Coast Dataopen hosted by Citadel and Correlation One is an invite-only Datathon featuring university students across the east coast. The event started on the 21st of March and ended on the 28th, lasting about a whole week.  I was in a team of two where we analyzed the non-conventional indicators and instigators of traffic. We posed the following question: "How would investments in businesses and education affect traffic and road safety in major American cities?"
@@ -35,13 +38,6 @@ To install plotly, run any of the following commands in the command prompt:
 > conda install -c plotly/label/test plotly
 ```
 
-To install plotly, run any of the following commands in the command prompt:
-
-```
-> conda install -c plotly plotly
-
-> conda install -c plotly/label/test plotly
-```
 Pandas already comes installed with Anaconda. 
 
 ## Deployment

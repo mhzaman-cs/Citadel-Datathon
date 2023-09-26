@@ -53,7 +53,7 @@ Pandas already comes installed with Anaconda.
 
 ## Authors
 
-* **Muhammad Zaman** - *Co-Author* - [mhzaman-cs](https://github.com/mhzaman-cs)
+* **Miles Zaman** - *Co-Author* - [mhzaman-cs](https://github.com/mhzaman-cs)
 * **William Harkless** - *Co-Author*
 
 ## License
